@@ -3,12 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="96499f90-e274-4308-9633-efc7d53a9de2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/link_penting.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/section_berita.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/section_berita_2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/section_dokumen_animation.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/section_dokumen_left.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/section_dokumen_right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/venobox/venobox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/venobox/venobox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/venobox/venobox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/venobox/venobox.min.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,5 +39,11 @@
       <updated>1599545180564</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1606216532035">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1606216532035" />
   </component>
 </project>

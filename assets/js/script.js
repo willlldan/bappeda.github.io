@@ -96,7 +96,7 @@ $('a[href*="#"]')
       target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
       // Does a scroll target exist?
       if (target.length) {
-        // Only prevent default if animation is actually gonna happen
+
         event.preventDefault();
 
         $('html, body').animate({
@@ -107,7 +107,6 @@ $('a[href*="#"]')
       }
     }
   });
-
 //from : https://css-tricks.com/snippets/jquery/smooth-scrolling/
 
 $(document).on('scroll', function () {
@@ -153,7 +152,7 @@ $('#berita .owl-carousel').owlCarousel({
 
 $("#berita .owl-nav").remove();
 
-// Porfolio isotope and filter
+// Galeri isotope and filter
 $(window).on('load', function () {
   var portfolioIsotope = $('.galeri-container').isotope({
     itemSelector: '.galeri-item'
@@ -169,10 +168,6 @@ $(window).on('load', function () {
     aos_init();
   });
 
-  // Initiate venobox (lightbox feature used in portofilo)
-  $('.venobox').venobox({
-    'share': false
-  });
 
   // Initiate aos_init() function
   aos_init();
@@ -232,8 +227,6 @@ $('.btn-form-pengaduan').on('click', function () {
 
 $(window).on('load', function () {
   // Mobile Navigation
-
-
 
   if ($('.nav-menu').length) {
     var $mobile_nav = $('.nav-menu').clone().prop({
